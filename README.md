@@ -24,9 +24,3 @@
     <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
   </picture>
 </p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=RomMj10">
-    <img src="https://komarev.com/ghpvc/?username=RomMj10&label=Profile%20views&color=AA00A5&style=flat-square" alt="RomMj10's profile views" />
-  </a>
-</p>
